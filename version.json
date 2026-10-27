@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.1.1/FastTranslation-1.1.1-Setup.exe",
-  "sha256": "6a1104ad5a1d419b73c5b233c3c2e546c851ea5dbf3f69890f534aa76c0ae6ee",
-  "size": 46626589,
-  "notes": "安装向导界面全中文,配色与应用一致(奶白泛蓝),底部有随页面推进的进度条;升级时也能改安装位置;修复程序在托盘里时直接双击安装包会失败(错误代码 5)的问题。",
-  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.1.1"
+  "version": "1.1.2",
+  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.1.2/FastTranslation-1.1.2-Setup.exe",
+  "sha256": "258045ca45e55f2545ecf159ac138b65a9e013e3bc30c8a0cf509d1c866e9afd",
+  "size": 46696599,
+  "notes": "安装向导排版修复:放大后的页面标题不再压住下一行说明文字,右上角徽标换成真正的应用图标;更新包下载改为两个 GitHub 加速代理轮换,且代理只作用于 github.com 地址,国内取更新更稳。",
+  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.1.2"
 }
