@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.2.1/FastTranslation-1.2.1-Setup.exe",
-  "sha256": "fcc38d7ee68f93a12994fe90293572a6cec6d8f1a977c0abd7aff5988a36a0d0",
-  "size": 46764884,
-  "notes": "写回失败的提示回到划词的位置,不再跳到屏幕左上角;结果卡与截图译图卡去掉被裁切的阴影硬边;「检查更新」提示换成与界面同风格的自绘窗口,深色下标题栏跟随主题。",
-  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.2.1"
+  "version": "1.2.2",
+  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.2.2/FastTranslation-1.2.2-Setup.exe",
+  "sha256": "fc29736278a635e71945e29d8766a4a40c95e9f2a97803c521f68d8e90540d3e",
+  "size": 46766839,
+  "notes": "修复自定义安装目录被当成便携版、更新时调改安装位置的问题。",
+  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.2.2"
 }
