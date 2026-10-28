@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.2.0/FastTranslation-1.2.0-Setup.exe",
-  "sha256": "7b033f18d2953f2abc8024dd64fda26c4e2a5d91c25dc6b6380cb905ce57b403",
-  "size": 46752995,
-  "notes": "截图翻译:划词工具条变成三颗(复制/翻译/截图翻译),Ctrl+Alt+S 拖框截屏后弹出译图浮窗,可复制图片或另存为。译文由 qwen-mt-image-2.0 生成,截图不上传任何图床。",
-  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.2.0"
+  "version": "1.2.1",
+  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.2.1/FastTranslation-1.2.1-Setup.exe",
+  "sha256": "fcc38d7ee68f93a12994fe90293572a6cec6d8f1a977c0abd7aff5988a36a0d0",
+  "size": 46764884,
+  "notes": "写回失败的提示回到划词的位置,不再跳到屏幕左上角;结果卡与截图译图卡去掉被裁切的阴影硬边;「检查更新」提示换成与界面同风格的自绘窗口,深色下标题栏跟随主题。",
+  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.2.1"
 }
