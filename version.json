@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.2.2/FastTranslation-1.2.2-Setup.exe",
-  "sha256": "fc29736278a635e71945e29d8766a4a40c95e9f2a97803c521f68d8e90540d3e",
-  "size": 46766839,
-  "notes": "修复自定义安装目录被当成便携版、更新时调改安装位置的问题。",
-  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.2.2"
+  "version": "1.3.7",
+  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.3.7/FastTranslation-1.3.7-Setup.exe",
+  "sha256": "8c2cde0892a3291f282302918ee58cbbf43cd045bce53139f9ddf947335eb582",
+  "size": 46980711,
+  "notes": "修复截图翻译不出窗与 OCR 识别不到文字。",
+  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.3.7"
 }
