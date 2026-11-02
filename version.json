@@ -1,8 +1,8 @@
 {
-  "version": "1.3.7",
-  "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.3.7/FastTranslation-1.3.7-Setup.exe",
-  "sha256": "8c2cde0892a3291f282302918ee58cbbf43cd045bce53139f9ddf947335eb582",
-  "size": 46980711,
-  "notes": "修复截图翻译不出窗与 OCR 识别不到文字。",
-  "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.3.7"
+    "version":  "1.5.0",
+    "url":  "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.0/FastTranslation-1.5.0-Setup.exe",
+    "sha256":  "c7423789b52c8fd2be03b33265409f21ea7c484de6dde1fb86e20a98d6402663",
+    "size":  47175967,
+    "notes":  "新增语音翻译：Ctrl+Alt+V 实时双语字幕，音频不出本机；全新雾光界面与电光蓝/湖蓝/雾光紫三种强调色；去掉全局软件渲染，换页与滚动更顺。",
+    "releasePage":  "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.0"
 }
