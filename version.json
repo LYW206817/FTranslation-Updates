@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.0",
-    "url":  "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.0/FastTranslation-1.5.0-Setup.exe",
-    "sha256":  "c7423789b52c8fd2be03b33265409f21ea7c484de6dde1fb86e20a98d6402663",
-    "size":  47175967,
-    "notes":  "新增语音翻译：Ctrl+Alt+V 实时双语字幕，音频不出本机；全新雾光界面与电光蓝/湖蓝/雾光紫三种强调色；去掉全局软件渲染，换页与滚动更顺。",
-    "releasePage":  "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.0"
+    "version":  "1.5.1",
+    "url":  "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.1/FastTranslation-1.5.1-Setup.exe",
+    "sha256":  "0b4a7a06eb91b44ce7ee80c8c2bd6b685effea6832ec9c511d643a7b22443432",
+    "size":  47194047,
+    "notes":  "修复语音翻译不可用（开始无反应/连接失败/无译文）；新增暂停继续；Plus 按 2.7 倍额度；修正隐私说明。",
+    "releasePage":  "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.1"
 }
