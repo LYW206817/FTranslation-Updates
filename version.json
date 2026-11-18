@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.2",
-    "url":  "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.2/FastTranslation-1.5.2-Setup.exe",
-    "sha256":  "c1ef4e05d317da608bd94f3fb46911df0de0786c01a6d8c01e10b674ed5a3b51",
-    "size":  49192701,
-    "notes":  "修复：语音、截图与文档翻译的意外错误改为中文提示，原始信息写入诊断日志。",
-    "releasePage":  "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.2"
+    "version": "1.5.2",
+    "url": "https://ft-download.oss-cn-hangzhou.aliyuncs.com/FastTranslation-1.5.2-Setup.exe",
+    "sha256": "c1ef4e05d317da608bd94f3fb46911df0de0786c01a6d8c01e10b674ed5a3b51",
+    "size": 49192701,
+    "notes": "修复：语音、截图与文档翻译的意外错误改为中文提示，原始信息写入诊断日志。",
+    "releasePage": "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.2"
 }
