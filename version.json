@@ -1,6 +1,6 @@
 {
     "version": "1.5.3",
-    "url": "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.3/FastTranslation-1.5.3-Setup.exe",
+    "url": "https://ft-download.oss-cn-hangzhou.aliyuncs.com/FastTranslation-1.5.3-Setup.exe",
     "sha256": "b5d7693a19c88bd53acf0618e65f3ce290538e08fe3821c6a8a668e52b34dd38",
     "size": 49183309,
     "notes": "自动更新改为优先读取官方服务器清单，不再依赖第三方镜像；安装包改为官方直链。延续修复：意外报错不再显示英文原始错误。",
