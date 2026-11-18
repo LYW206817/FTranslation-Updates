@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.1",
-    "url":  "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.1/FastTranslation-1.5.1-Setup.exe",
-    "sha256":  "0b4a7a06eb91b44ce7ee80c8c2bd6b685effea6832ec9c511d643a7b22443432",
-    "size":  47194047,
-    "notes":  "修复语音翻译不可用（开始无反应/连接失败/无译文）；新增暂停继续；Plus 按 2.7 倍额度；修正隐私说明。",
-    "releasePage":  "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.1"
+    "version":  "1.5.2",
+    "url":  "https://github.com/LYW206817/FTranslation-Updates/releases/download/v1.5.2/FastTranslation-1.5.2-Setup.exe",
+    "sha256":  "c1ef4e05d317da608bd94f3fb46911df0de0786c01a6d8c01e10b674ed5a3b51",
+    "size":  49192701,
+    "notes":  "修复：语音、截图与文档翻译的意外错误改为中文提示，原始信息写入诊断日志。",
+    "releasePage":  "https://github.com/LYW206817/FTranslation/releases/tag/v1.5.2"
 }
